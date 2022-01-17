@@ -1,1 +1,3 @@
-# recipes
+# Recipe
+
+Food recipes
